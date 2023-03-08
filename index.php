@@ -1,3 +1,4 @@
+<!-- p4fg -->
 <?php
 
-echo "Hello World!";
+?>
